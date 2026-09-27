@@ -1,0 +1,1466 @@
+[
+    {
+        "o":  "Sr.",
+        "c":  "senhor",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "Srs.",
+        "c":  "senhores",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "Sra.",
+        "c":  "senhora",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "Sras.",
+        "c":  "senhoras",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "Srta.",
+        "c":  "senhorita",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "Dr.",
+        "c":  "doutor",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "Dra.",
+        "c":  "doutora",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "Dras.",
+        "c":  "doutoras",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "Prof.",
+        "c":  "professor",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "Profa.",
+        "c":  "professora",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "Av.",
+        "c":  "avenida",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "pág.",
+        "c":  "página",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "págs.",
+        "c":  "páginas",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "séc.",
+        "c":  "século",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "cap.",
+        "c":  "capítulo",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "vol.",
+        "c":  "volume",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "ed.",
+        "c":  "edição",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "nº",
+        "c":  "número",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "S/A",
+        "c":  "sociedade anônima",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "min.",
+        "c":  "minutos",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "hrs.",
+        "c":  "horas",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "Obs.:",
+        "c":  "observação",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "Ex.:",
+        "c":  "exemplo",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "Art.",
+        "c":  "artigo",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "Tel.",
+        "c":  "telefone",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "Org.",
+        "c":  "organização",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "N.º",
+        "c":  "número",
+        "l":  "pt",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "km",
+        "c":  "quilômetros",
+        "l":  "pt",
+        "cat":  "unidade"
+    },
+    {
+        "o":  "kg",
+        "c":  "quilos",
+        "l":  "pt",
+        "cat":  "unidade"
+    },
+    {
+        "o":  "km/h",
+        "c":  "quilômetros por hora",
+        "l":  "pt",
+        "cat":  "unidade"
+    },
+    {
+        "o":  "cm",
+        "c":  "centímetros",
+        "l":  "pt",
+        "cat":  "unidade"
+    },
+    {
+        "o":  "mm",
+        "c":  "milímetros",
+        "l":  "pt",
+        "cat":  "unidade"
+    },
+    {
+        "o":  "m²",
+        "c":  "metros quadrados",
+        "l":  "pt",
+        "cat":  "unidade"
+    },
+    {
+        "o":  "mg",
+        "c":  "miligramas",
+        "l":  "pt",
+        "cat":  "unidade"
+    },
+    {
+        "o":  "MW",
+        "c":  "megawatts",
+        "l":  "pt",
+        "cat":  "unidade"
+    },
+    {
+        "o":  "km²",
+        "c":  "quilômetros quadrados",
+        "l":  "pt",
+        "cat":  "unidade"
+    },
+    {
+        "o":  "ha",
+        "c":  "hectares",
+        "l":  "pt",
+        "cat":  "unidade"
+    },
+    {
+        "o":  "1º",
+        "c":  "primeiro",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "2º",
+        "c":  "segundo",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "3º",
+        "c":  "terceiro",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "4º",
+        "c":  "quarto",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "5º",
+        "c":  "quinto",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "6º",
+        "c":  "sexto",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "7º",
+        "c":  "sétimo",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "8º",
+        "c":  "oitavo",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "9º",
+        "c":  "nono",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "10º",
+        "c":  "décimo",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "11º",
+        "c":  "décimo primeiro",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "12º",
+        "c":  "décimo segundo",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "13º",
+        "c":  "décimo terceiro",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "14º",
+        "c":  "décimo quarto",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "15º",
+        "c":  "décimo quinto",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "20º",
+        "c":  "vigésimo",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "30º",
+        "c":  "trigésimo",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "100º",
+        "c":  "centésimo",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "1ª",
+        "c":  "primeira",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "2ª",
+        "c":  "segunda",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "3ª",
+        "c":  "terceira",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "4ª",
+        "c":  "quarta",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "5ª",
+        "c":  "quinta",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "10ª",
+        "c":  "décima",
+        "l":  "pt",
+        "cat":  "ordinal"
+    },
+    {
+        "o":  "etc",
+        "c":  "etcetera",
+        "l":  "pt",
+        "cat":  "latim"
+    },
+    {
+        "o":  "e.g.",
+        "c":  "por exemplo",
+        "l":  "en",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "i.e.",
+        "c":  "that is",
+        "l":  "en",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "Mr.",
+        "c":  "mister",
+        "l":  "en",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "Mrs.",
+        "c":  "missis",
+        "l":  "en",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "Ms.",
+        "c":  "mis",
+        "l":  "en",
+        "cat":  "abreviatura"
+    },
+    {
+        "o":  "Madame",
+        "c":  "madam",
+        "l":  "pt",
+        "cat":  "estrangeirismo-frances"
+    },
+    {
+        "o":  "Mademoiselle",
+        "c":  "madmoizel",
+        "l":  "pt",
+        "cat":  "estrangeirismo-frances"
+    },
+    {
+        "o":  "Monsieur",
+        "c":  "missiô",
+        "l":  "pt",
+        "cat":  "estrangeirismo-frances"
+    },
+    {
+        "o":  "déjà vu",
+        "c":  "dejavu",
+        "l":  "pt",
+        "cat":  "estrangeirismo-frances"
+    },
+    {
+        "o":  "croissant",
+        "c":  "cruassã",
+        "l":  "pt",
+        "cat":  "estrangeirismo-frances"
+    },
+    {
+        "o":  "rendez-vous",
+        "c":  "randevu",
+        "l":  "pt",
+        "cat":  "estrangeirismo-frances"
+    },
+    {
+        "o":  "château",
+        "c":  "chatô",
+        "l":  "pt",
+        "cat":  "estrangeirismo-frances"
+    },
+    {
+        "o":  "fiancé",
+        "c":  "fiansê",
+        "l":  "pt",
+        "cat":  "estrangeirismo-frances"
+    },
+    {
+        "o":  "fiancée",
+        "c":  "fiansê",
+        "l":  "pt",
+        "cat":  "estrangeirismo-frances"
+    },
+    {
+        "o":  "boulevard",
+        "c":  "bulivár",
+        "l":  "pt",
+        "cat":  "estrangeirismo-frances"
+    },
+    {
+        "o":  "weekend",
+        "c":  "uíquend",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles"
+    },
+    {
+        "o":  "flashback",
+        "c":  "fléshbaque",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles"
+    },
+    {
+        "o":  "hobby",
+        "c":  "óbi",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles"
+    },
+    {
+        "o":  "shopping",
+        "c":  "chópingue",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles"
+    },
+    {
+        "o":  "jazz",
+        "c":  "djéz",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles"
+    },
+    {
+        "o":  "whisky",
+        "c":  "uísci",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles"
+    },
+    {
+        "o":  "whiskey",
+        "c":  "uísci",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles"
+    },
+    {
+        "o":  "baby",
+        "c":  "bêbi",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles"
+    },
+    {
+        "o":  "darling",
+        "c":  "dárling",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles"
+    },
+    {
+        "o":  "Lady",
+        "c":  "lêdi",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles"
+    },
+    {
+        "o":  "señor",
+        "c":  "senhor",
+        "l":  "pt",
+        "cat":  "estrangeirismo-espanhol"
+    },
+    {
+        "o":  "señorita",
+        "c":  "senhorita",
+        "l":  "pt",
+        "cat":  "estrangeirismo-espanhol"
+    },
+    {
+        "o":  "hasta",
+        "c":  "asta",
+        "l":  "pt",
+        "cat":  "estrangeirismo-espanhol"
+    },
+    {
+        "o":  "depressa",
+        "c":  "depréssa",
+        "l":  "pt",
+        "cat":  "advérbio"
+    },
+    {
+        "o":  "conservavam",
+        "c":  "conservávam",
+        "l":  "pt",
+        "cat":  "verbo"
+    },
+    {
+        "o":  "abelhinha",
+        "c":  "abelhínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "animalzinho",
+        "c":  "animalzínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "avezinha",
+        "c":  "avezínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "banquinho",
+        "c":  "banquínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "baratinho",
+        "c":  "baratínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "barulhinho",
+        "c":  "barulhínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "bichinho",
+        "c":  "bichínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "birrinha",
+        "c":  "birrínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "bocadinho",
+        "c":  "bocadínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "bolinho",
+        "c":  "bolínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "bonitinho",
+        "c":  "bonitínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "cachorrinho",
+        "c":  "cachorrínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "caderninho",
+        "c":  "cadernínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "caixinha",
+        "c":  "caixínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "camarãozinho",
+        "c":  "camarãozínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "Caranguejinha",
+        "c":  "Caranguejínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "carrinho",
+        "c":  "carrínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "casinha",
+        "c":  "casínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "cestinho",
+        "c":  "cestínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "chavezinha",
+        "c":  "chavezínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "chutinho",
+        "c":  "chutínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "coisinha",
+        "c":  "coisínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "Coitadinho",
+        "c":  "Coitadínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "criancinha",
+        "c":  "criancínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "criaturinha",
+        "c":  "criaturínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "devagarinho",
+        "c":  "devagarínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "fraquinho",
+        "c":  "fraquínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "garrafinha",
+        "c":  "garrafínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "gritinho",
+        "c":  "gritínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "igualzinho",
+        "c":  "igualzínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "inteirinho",
+        "c":  "inteirínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "irmãzinha",
+        "c":  "irmãzínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "jeitinho",
+        "c":  "jeitínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "juradinho",
+        "c":  "juradínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "lagartinho",
+        "c":  "lagartínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "latidinho",
+        "c":  "latidínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "livrinho",
+        "c":  "livrínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "menininho",
+        "c":  "meninínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "mesinha",
+        "c":  "mesínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "morceguinho",
+        "c":  "morceguínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "nadinha",
+        "c":  "nadínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "palavrinha",
+        "c":  "palavrínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "passarinho",
+        "c":  "passarínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "patrãozinho",
+        "c":  "patrãozínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "pedacinho",
+        "c":  "pedacínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "pequenininha",
+        "c":  "pequeninínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "pontinha",
+        "c":  "pontínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "portinha",
+        "c":  "portínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "pouquinho",
+        "c":  "pouquínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "quartinho",
+        "c":  "quartínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "queixinho",
+        "c":  "queixínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "quentinha",
+        "c":  "quentínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "redondinho",
+        "c":  "redondínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "risadinha",
+        "c":  "risadínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "sozinha",
+        "c":  "sozínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "sozinho",
+        "c":  "sozínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "tabelinha",
+        "c":  "tabelínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "tantinho",
+        "c":  "tantínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "terrierzinho",
+        "c":  "terrierzínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "velhinha",
+        "c":  "velhínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "voozinho",
+        "c":  "voozínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "vozinha",
+        "c":  "vozínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "media",
+        "c":  "medía",
+        "l":  "pt",
+        "cat":  "verbo"
+    },
+    {
+        "o":  "sabia",
+        "c":  "sabía",
+        "l":  "pt",
+        "cat":  "verbo"
+    },
+    {
+        "o":  "lia",
+        "c":  "lía",
+        "l":  "pt",
+        "cat":  "verbo"
+    },
+    {
+        "o":  "parodia",
+        "c":  "parodía",
+        "l":  "pt",
+        "cat":  "verbo"
+    },
+    {
+        "o":  "peixinhos",
+        "c":  "peixínhos",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "porquinhos",
+        "c":  "porquínhos",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "bolinhos",
+        "c":  "bolínhos",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "sozinhos",
+        "c":  "sozínhos",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "luzinha",
+        "c":  "luzínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "passarinhos",
+        "c":  "passarínhos",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "pedrinhas",
+        "c":  "pedrínhas",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "bichinhos",
+        "c":  "bichínhos",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "escrivaninha",
+        "c":  "escrivanínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "historinhas",
+        "c":  "historínhas",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "pezinhos",
+        "c":  "pezínhos",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "luvinhas",
+        "c":  "luvínhas",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "olhinhos",
+        "c":  "olhínhos",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "tapinhas",
+        "c":  "tapínhas",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "patinhas",
+        "c":  "patínhas",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "gritinhos",
+        "c":  "gritínhos",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "rodinhas",
+        "c":  "rodínhas",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "queridinhos",
+        "c":  "queridínhos",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "fraquinhas",
+        "c":  "fraquínhas",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "mãozinhas",
+        "c":  "mãozínhas",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "criancinhas",
+        "c":  "criancínhas",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "casinhas",
+        "c":  "casínhas",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "toninha",
+        "c":  "tonínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "andorinha",
+        "c":  "andorínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "doninha",
+        "c":  "donínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "sobrinha",
+        "c":  "sobrínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "manhãzinha",
+        "c":  "manhãzínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "baixinhos",
+        "c":  "baixínhos",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "noitinha",
+        "c":  "noitínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "estradinha",
+        "c":  "estradínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "provinha",
+        "c":  "provínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "bonequinhas",
+        "c":  "bonequínhas",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "madrinha",
+        "c":  "madrínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "feitorzinho",
+        "c":  "feitorzínho",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "irmãzinhas",
+        "c":  "irmãzínhas",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "cidadezinha",
+        "c":  "cidadezínha",
+        "l":  "pt",
+        "cat":  "diminutivo"
+    },
+    {
+        "o":  "Gjorg",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Djorg"
+    },
+    {
+        "o":  "Berisha",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Berísha"
+    },
+    {
+        "o":  "Kanun",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Kanún"
+    },
+    {
+        "o":  "Binak",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Binák"
+    },
+    {
+        "o":  "Tirana",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Tiraná"
+    },
+    {
+        "o":  "Zef",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Zéf"
+    },
+    {
+        "o":  "Gjorg Berisha",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Djorg Berícha"
+    },
+    {
+        "o":  "Kryeqy q",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Kryeqyq"
+    },
+    {
+        "o":  "Kry eqyq",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Kryeqyq"
+    },
+    {
+        "o":  "Kry eqy q",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Kryeqyq"
+    },
+    {
+        "o":  "ranger",
+        "l":  "pt",
+        "cat":  "confusao-ingles",
+        "c":  "ranjér"
+    },
+    {
+        "o":  "Os",
+        "l":  "pt",
+        "cat":  "sigla-falsa",
+        "c":  "os"
+    },
+    {
+        "o":  "Hamlet",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Rámlet"
+    },
+    {
+        "o":  "Macbeth",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Mécbéf"
+    },
+    {
+        "o":  "Shakespeare",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Xêikspir"
+    },
+    {
+        "o":  "Othello",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Otélo"
+    },
+    {
+        "o":  "Sherlock",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Xérloque"
+    },
+    {
+        "o":  "Holmes",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Rôums"
+    },
+    {
+        "o":  "Watson",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Uótson"
+    },
+    {
+        "o":  "Dickens",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Díquens"
+    },
+    {
+        "o":  "Hemingway",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Rêminguei"
+    },
+    {
+        "o":  "Wilde",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Uáild"
+    },
+    {
+        "o":  "Hyde",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Ráid"
+    },
+    {
+        "o":  "Jekyll",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Djékil"
+    },
+    {
+        "o":  "Tolkien",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Tólquin"
+    },
+    {
+        "o":  "Hobbit",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Róbit"
+    },
+    {
+        "o":  "Harry",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Réri"
+    },
+    {
+        "o":  "Hermione",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Rermáioni"
+    },
+    {
+        "o":  "Hagrid",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Rágrid"
+    },
+    {
+        "o":  "Churchill",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Tchértchil"
+    },
+    {
+        "o":  "Newton",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Níuton"
+    },
+    {
+        "o":  "Washington",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Uóchinton"
+    },
+    {
+        "o":  "Hollywood",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Róliud"
+    },
+    {
+        "o":  "Oxford",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Ócsford"
+    },
+    {
+        "o":  "Cambridge",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Quêimbridj"
+    },
+    {
+        "o":  "Manhattan",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Menréten"
+    },
+    {
+        "o":  "Brooklyn",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Brúclin"
+    },
+    {
+        "o":  "Disney",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Dísnei"
+    },
+    {
+        "o":  "New York",
+        "l":  "pt",
+        "cat":  "estrangeirismo-ingles",
+        "c":  "Niu Iórque"
+    },
+    {
+        "o":  "Frankenstein",
+        "l":  "pt",
+        "cat":  "estrangeirismo-alemao",
+        "c":  "Frânquenstáin"
+    },
+    {
+        "o":  "Freud",
+        "l":  "pt",
+        "cat":  "estrangeirismo-alemao",
+        "c":  "Fróid"
+    },
+    {
+        "o":  "Nietzsche",
+        "l":  "pt",
+        "cat":  "estrangeirismo-alemao",
+        "c":  "Nítche"
+    },
+    {
+        "o":  "Goethe",
+        "l":  "pt",
+        "cat":  "estrangeirismo-alemao",
+        "c":  "Guête"
+    },
+    {
+        "o":  "Hegel",
+        "l":  "pt",
+        "cat":  "estrangeirismo-alemao",
+        "c":  "Rêguel"
+    },
+    {
+        "o":  "Heidegger",
+        "l":  "pt",
+        "cat":  "estrangeirismo-alemao",
+        "c":  "Ráidéguer"
+    },
+    {
+        "o":  "Hitler",
+        "l":  "pt",
+        "cat":  "estrangeirismo-alemao",
+        "c":  "Rítler"
+    },
+    {
+        "o":  "Beethoven",
+        "l":  "pt",
+        "cat":  "estrangeirismo-alemao",
+        "c":  "Bêtôven"
+    },
+    {
+        "o":  "Wagner",
+        "l":  "pt",
+        "cat":  "estrangeirismo-alemao",
+        "c":  "Vágner"
+    },
+    {
+        "o":  "Einstein",
+        "l":  "pt",
+        "cat":  "estrangeirismo-alemao",
+        "c":  "Áinstáin"
+    },
+    {
+        "o":  "Chopin",
+        "l":  "pt",
+        "cat":  "estrangeirismo-frances",
+        "c":  "Xopân"
+    }
+]
