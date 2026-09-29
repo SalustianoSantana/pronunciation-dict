@@ -1966,5 +1966,65 @@
         "l":  "pt",
         "cat":  "vogal-fechada",
         "c":  "suprêmas"
+    },
+    {
+        "o":  "principesca",
+        "l":  "pt",
+        "cat":  "vogal-fechada",
+        "c":  "principêsca"
+    },
+    {
+        "o":  "principescas",
+        "l":  "pt",
+        "cat":  "vogal-fechada",
+        "c":  "principêscas"
+    },
+    {
+        "o":  "principesco",
+        "l":  "pt",
+        "cat":  "vogal-fechada",
+        "c":  "principêsco"
+    },
+    {
+        "o":  "principescos",
+        "l":  "pt",
+        "cat":  "vogal-fechada",
+        "c":  "principêscos"
+    },
+    {
+        "o":  "designem",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "desígnem"
+    },
+    {
+        "o":  "paisagem",
+        "l":  "pt",
+        "cat":  "s-com-som-de-z",
+        "c":  "paizágem"
+    },
+    {
+        "o":  "paisagens",
+        "l":  "pt",
+        "cat":  "s-com-som-de-z",
+        "c":  "paizágens"
+    },
+    {
+        "o":  "debilmente",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "débilmente"
+    },
+    {
+        "o":  "pendia",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "pendía"
+    },
+    {
+        "o":  "pendiam",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "pendíam"
     }
 ]
