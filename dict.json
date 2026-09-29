@@ -1462,5 +1462,509 @@
         "l":  "pt",
         "cat":  "estrangeirismo-frances",
         "c":  "Xopân"
+    },
+    {
+        "o":  "dominio publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "domínio público"
+    },
+    {
+        "o":  "domínio publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "domínio público"
+    },
+    {
+        "o":  "dominio público",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "domínio público"
+    },
+    {
+        "o":  "o publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "o público"
+    },
+    {
+        "o":  "ao publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "ao público"
+    },
+    {
+        "o":  "do publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "do público"
+    },
+    {
+        "o":  "pelo publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "pelo público"
+    },
+    {
+        "o":  "em publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "em público"
+    },
+    {
+        "o":  "no publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "no público"
+    },
+    {
+        "o":  "grande publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "grande público"
+    },
+    {
+        "o":  "publico-alvo",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "público-alvo"
+    },
+    {
+        "o":  "publico alvo",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "público alvo"
+    },
+    {
+        "o":  "poder publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "poder público"
+    },
+    {
+        "o":  "setor publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "setor público"
+    },
+    {
+        "o":  "servico publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "serviço público"
+    },
+    {
+        "o":  "serviço publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "serviço público"
+    },
+    {
+        "o":  "servidor publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "servidor público"
+    },
+    {
+        "o":  "funcionario publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "funcionário público"
+    },
+    {
+        "o":  "funcionário publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "funcionário público"
+    },
+    {
+        "o":  "ministerio publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "ministério público"
+    },
+    {
+        "o":  "ministério publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "ministério público"
+    },
+    {
+        "o":  "orgao publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "órgão público"
+    },
+    {
+        "o":  "órgão publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "órgão público"
+    },
+    {
+        "o":  "interesse publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "interesse público"
+    },
+    {
+        "o":  "ensino publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "ensino público"
+    },
+    {
+        "o":  "transporte publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "transporte público"
+    },
+    {
+        "o":  "cargo publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "cargo público"
+    },
+    {
+        "o":  "espaco publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "espaço público"
+    },
+    {
+        "o":  "espaço publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "espaço público"
+    },
+    {
+        "o":  "concurso publico",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "concurso público"
+    },
+    {
+        "o":  "via publica",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "via pública"
+    },
+    {
+        "o":  "saude publica",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "saúde pública"
+    },
+    {
+        "o":  "saúde publica",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "saúde pública"
+    },
+    {
+        "o":  "opiniao publica",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "opinião pública"
+    },
+    {
+        "o":  "opinião publica",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "opinião pública"
+    },
+    {
+        "o":  "segurança publica",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "segurança pública"
+    },
+    {
+        "o":  "seguranca publica",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "segurança pública"
+    },
+    {
+        "o":  "escola publica",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "escola pública"
+    },
+    {
+        "o":  "politica publica",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "política pública"
+    },
+    {
+        "o":  "política publica",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "política pública"
+    },
+    {
+        "o":  "administracao publica",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "administração pública"
+    },
+    {
+        "o":  "administração publica",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "administração pública"
+    },
+    {
+        "o":  "coisa publica",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "coisa pública"
+    },
+    {
+        "o":  "rede publica",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "rede pública"
+    },
+    {
+        "o":  "praça publica",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "praça pública"
+    },
+    {
+        "o":  "praca publica",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "praça pública"
+    },
+    {
+        "o":  "dominio",
+        "l":  "pt",
+        "cat":  "acento-faltando",
+        "c":  "domínio"
+    },
+    {
+        "o":  "expandir",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espandir"
+    },
+    {
+        "o":  "expande",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espande"
+    },
+    {
+        "o":  "expandem",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espandem"
+    },
+    {
+        "o":  "expando",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espando"
+    },
+    {
+        "o":  "expandiu",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espandiu"
+    },
+    {
+        "o":  "expandiram",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espandiram"
+    },
+    {
+        "o":  "expandia",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espandía"
+    },
+    {
+        "o":  "expandiam",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espandíam"
+    },
+    {
+        "o":  "expandira",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espandira"
+    },
+    {
+        "o":  "expandirá",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espandirá"
+    },
+    {
+        "o":  "expandirão",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espandirão"
+    },
+    {
+        "o":  "expandiria",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espandiria"
+    },
+    {
+        "o":  "expandisse",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espandisse"
+    },
+    {
+        "o":  "expandindo",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espandindo"
+    },
+    {
+        "o":  "expandido",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espandido"
+    },
+    {
+        "o":  "expandida",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espandida"
+    },
+    {
+        "o":  "expandidos",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espandidos"
+    },
+    {
+        "o":  "expandidas",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espandidas"
+    },
+    {
+        "o":  "expandir-se",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espandir-se"
+    },
+    {
+        "o":  "expansão",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espansão"
+    },
+    {
+        "o":  "expansões",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espansões"
+    },
+    {
+        "o":  "expansivo",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espansivo"
+    },
+    {
+        "o":  "expansiva",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espansiva"
+    },
+    {
+        "o":  "expansivos",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espansivos"
+    },
+    {
+        "o":  "expansivas",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espansivas"
+    },
+    {
+        "o":  "expansionismo",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espansionismo"
+    },
+    {
+        "o":  "expansionista",
+        "l":  "pt",
+        "cat":  "x-com-som-de-s",
+        "c":  "espansionista"
+    },
+    {
+        "o":  "soltaram",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "soltáram"
+    },
+    {
+        "o":  "penetrem",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "penétrem"
+    },
+    {
+        "o":  "penetre",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "penétre"
+    },
+    {
+        "o":  "penetres",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "penétres"
+    },
+    {
+        "o":  "penetra",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "penétra"
+    },
+    {
+        "o":  "penetras",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "penétras"
+    },
+    {
+        "o":  "penetram",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "penétram"
+    },
+    {
+        "o":  "penetro",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "penétro"
+    },
+    {
+        "o":  "suprema",
+        "l":  "pt",
+        "cat":  "vogal-fechada",
+        "c":  "suprêma"
+    },
+    {
+        "o":  "supremas",
+        "l":  "pt",
+        "cat":  "vogal-fechada",
+        "c":  "suprêmas"
     }
 ]
