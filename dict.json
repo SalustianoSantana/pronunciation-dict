@@ -2026,5 +2026,71 @@
         "l":  "pt",
         "cat":  "silaba-tonica",
         "c":  "pendíam"
+    },
+    {
+        "o":  "atiçavam",
+        "l":  "pt",
+        "cat":  "verbo",
+        "c":  "atiçávam"
+    },
+    {
+        "o":  "psiu",
+        "l":  "pt",
+        "cat":  "fonetica",
+        "c":  "pissiu"
+    },
+    {
+        "o":  "apeou",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "apeôu"
+    },
+    {
+        "o":  "rostos",
+        "l":  "pt",
+        "cat":  "vogal-fechada",
+        "c":  "rôstos"
+    },
+    {
+        "o":  "exigia",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "exigía"
+    },
+    {
+        "o":  "exigiam",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "exigíam"
+    },
+    {
+        "o":  "recheada",
+        "l":  "pt",
+        "cat":  "fonetica",
+        "c":  "rechiada"
+    },
+    {
+        "o":  "recheado",
+        "l":  "pt",
+        "cat":  "fonetica",
+        "c":  "rechiado"
+    },
+    {
+        "o":  "recheadas",
+        "l":  "pt",
+        "cat":  "fonetica",
+        "c":  "rechiadas"
+    },
+    {
+        "o":  "recheados",
+        "l":  "pt",
+        "cat":  "fonetica",
+        "c":  "rechiados"
+    },
+    {
+        "o":  "afastem",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "afástem"
     }
 ]
