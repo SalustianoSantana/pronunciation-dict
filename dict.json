@@ -2092,5 +2092,17 @@
         "l":  "pt",
         "cat":  "silaba-tonica",
         "c":  "afástem"
+    },
+    {
+        "o":  "morram",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "mórrão"
+    },
+    {
+        "o":  "aplacar",
+        "l":  "pt",
+        "cat":  "fonetica",
+        "c":  "a‑placar"
     }
 ]
