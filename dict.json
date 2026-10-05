@@ -2104,5 +2104,41 @@
         "l":  "pt",
         "cat":  "fonetica",
         "c":  "a‑placar"
+    },
+    {
+        "o":  "flamejava",
+        "l":  "pt",
+        "cat":  "confusao-ingles",
+        "c":  "flamejáva"
+    },
+    {
+        "o":  "flamejavam",
+        "l":  "pt",
+        "cat":  "confusao-ingles",
+        "c":  "flamejávam"
+    },
+    {
+        "o":  "ingênuo",
+        "l":  "pt",
+        "cat":  "fonetica",
+        "c":  "injénuo"
+    },
+    {
+        "o":  "ingênua",
+        "l":  "pt",
+        "cat":  "fonetica",
+        "c":  "injénua"
+    },
+    {
+        "o":  "ingênuos",
+        "l":  "pt",
+        "cat":  "fonetica",
+        "c":  "injénuos"
+    },
+    {
+        "o":  "ingênuas",
+        "l":  "pt",
+        "cat":  "fonetica",
+        "c":  "injénuas"
     }
 ]
