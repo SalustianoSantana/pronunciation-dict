@@ -877,13 +877,13 @@
     },
     {
         "o":  "sozinha",
-        "c":  "sozínha",
+        "c":  "sózínha",
         "l":  "pt",
         "cat":  "diminutivo"
     },
     {
         "o":  "sozinho",
-        "c":  "sozínho",
+        "c":  "sózínho",
         "l":  "pt",
         "cat":  "diminutivo"
     },
@@ -967,7 +967,7 @@
     },
     {
         "o":  "sozinhos",
-        "c":  "sozínhos",
+        "c":  "sózínhos",
         "l":  "pt",
         "cat":  "diminutivo"
     },
@@ -2028,6 +2028,12 @@
         "c":  "pendíam"
     },
     {
+        "o":  "valiam",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "valíam"
+    },
+    {
         "o":  "atiçavam",
         "l":  "pt",
         "cat":  "verbo",
@@ -2140,5 +2146,29 @@
         "l":  "pt",
         "cat":  "fonetica",
         "c":  "injénuas"
+    },
+    {
+        "o":  "reviravolta",
+        "l":  "pt",
+        "cat":  "vogal-aberta",
+        "c":  "reviravólta"
+    },
+    {
+        "o":  "reviravoltas",
+        "l":  "pt",
+        "cat":  "vogal-aberta",
+        "c":  "reviravóltas"
+    },
+    {
+        "o":  "sozinhas",
+        "l":  "pt",
+        "cat":  "diminutivo",
+        "c":  "sózínhas"
+    },
+    {
+        "o":  "cansando",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "cansândo"
     }
 ]
