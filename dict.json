@@ -2206,5 +2206,23 @@
         "l":  "pt",
         "cat":  "fonetica",
         "c":  "mau-cheirósus"
+    },
+    {
+        "o":  "retorquiu",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "retorquíu"
+    },
+    {
+        "o":  "sucedia",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "sucedía"
+    },
+    {
+        "o":  "lívido",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "lívi-do"
     }
 ]
