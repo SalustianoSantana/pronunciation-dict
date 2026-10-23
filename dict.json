@@ -2224,5 +2224,89 @@
         "l":  "pt",
         "cat":  "silaba-tonica",
         "c":  "lívi-do"
+    },
+    {
+        "o":  "Livesey",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Lívsi"
+    },
+    {
+        "o":  "Trelawney",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Trelóni"
+    },
+    {
+        "o":  "Trelawnev",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Trelóni"
+    },
+    {
+        "o":  "Hawkins",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Róquins"
+    },
+    {
+        "o":  "Smollett",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Smólet"
+    },
+    {
+        "o":  "Silver",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Sílver"
+    },
+    {
+        "o":  "Benbow",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Bénbou"
+    },
+    {
+        "o":  "Billy Bones",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Bíli Bôuns"
+    },
+    {
+        "o":  "Bones",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Bôuns"
+    },
+    {
+        "o":  "Pew",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Piú"
+    },
+    {
+        "o":  "Ben Gunn",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Ben Gân"
+    },
+    {
+        "o":  "Israel Hands",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Israel Rénds"
+    },
+    {
+        "o":  "Crossley",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Crósli"
+    },
+    {
+        "o":  "Jim",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Djim"
     }
 ]
