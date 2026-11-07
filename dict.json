@@ -2308,5 +2308,23 @@
         "l":  "pt",
         "cat":  "nome-proprio",
         "c":  "Djim"
+    },
+    {
+        "o":  "jejum",
+        "l":  "pt",
+        "cat":  "silaba-tonica",
+        "c":  "jejúm"
+    },
+    {
+        "o":  "Hodor",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Rôdor"
+    },
+    {
+        "o":  "prorrogação",
+        "l":  "pt",
+        "cat":  "fonetica",
+        "c":  "pro rrogação"
     }
 ]
