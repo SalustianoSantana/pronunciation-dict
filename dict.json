@@ -2326,5 +2326,23 @@
         "l":  "pt",
         "cat":  "fonetica",
         "c":  "pro rrogação"
+    },
+    {
+        "o":  "quiproquó",
+        "l":  "pt",
+        "cat":  "fonetica",
+        "c":  "quiprocó"
+    },
+    {
+        "o":  "quiproquós",
+        "l":  "pt",
+        "cat":  "fonetica",
+        "c":  "quiprocós"
+    },
+    {
+        "o":  "Wel",
+        "l":  "pt",
+        "cat":  "nome-proprio",
+        "c":  "Uel"
     }
 ]
