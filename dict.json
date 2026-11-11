@@ -2344,5 +2344,29 @@
         "l":  "pt",
         "cat":  "nome-proprio",
         "c":  "Uel"
+    },
+    {
+        "o":  "Shhh",
+        "c":  "xiu",
+        "l":  "pt",
+        "cat":  "onomatopeia"
+    },
+    {
+        "o":  "Shh",
+        "c":  "xiu",
+        "l":  "pt",
+        "cat":  "onomatopeia"
+    },
+    {
+        "o":  "Sh",
+        "c":  "xiu",
+        "l":  "pt",
+        "cat":  "onomatopeia"
+    },
+    {
+        "o":  "Nhac",
+        "c":  "nhaque",
+        "l":  "pt",
+        "cat":  "onomatopeia"
     }
 ]
