@@ -2178,12 +2178,6 @@
         "c":  "oferecêsse"
     },
     {
-        "o":  "adormecer",
-        "l":  "pt",
-        "cat":  "silaba-tonica",
-        "c":  "adormecêr"
-    },
-    {
         "o":  "afrouxassem",
         "l":  "pt",
         "cat":  "fonetica",
@@ -2194,12 +2188,6 @@
         "l":  "pt",
         "cat":  "silaba-tonica",
         "c":  "desfêchou"
-    },
-    {
-        "o":  "for",
-        "l":  "pt",
-        "cat":  "vogal-fechada",
-        "c":  "fôr"
     },
     {
         "o":  "malcheirosos",
@@ -2368,5 +2356,29 @@
         "c":  "nhaque",
         "l":  "pt",
         "cat":  "onomatopeia"
+    },
+    {
+        "o":  "contramestre",
+        "c":  "contra mestre",
+        "l":  "pt",
+        "cat":  "fonetica"
+    },
+    {
+        "o":  "contramestres",
+        "c":  "contra mestres",
+        "l":  "pt",
+        "cat":  "fonetica"
+    },
+    {
+        "o":  "for",
+        "c":  "for",
+        "l":  "pt",
+        "cat":  "sem-troca"
+    },
+    {
+        "o":  "adormecer",
+        "c":  "adormecer",
+        "l":  "pt",
+        "cat":  "sem-troca"
     }
 ]
