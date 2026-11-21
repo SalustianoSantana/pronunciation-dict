@@ -2380,5 +2380,11 @@
         "c":  "adormecer",
         "l":  "pt",
         "cat":  "sem-troca"
+    },
+    {
+        "o":  "averiguo",
+        "c":  "averigúo",
+        "l":  "pt",
+        "cat":  "fonetica"
     }
 ]
