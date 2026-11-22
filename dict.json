@@ -2386,5 +2386,95 @@
         "c":  "averigúo",
         "l":  "pt",
         "cat":  "fonetica"
+    },
+    {
+        "o":  "fornico",
+        "c":  "forníco",
+        "l":  "pt",
+        "cat":  "fonetica"
+    },
+    {
+        "o":  "fornica",
+        "c":  "forníca",
+        "l":  "pt",
+        "cat":  "fonetica"
+    },
+    {
+        "o":  "fornicas",
+        "c":  "fornícas",
+        "l":  "pt",
+        "cat":  "fonetica"
+    },
+    {
+        "o":  "fornicam",
+        "c":  "fornícam",
+        "l":  "pt",
+        "cat":  "fonetica"
+    },
+    {
+        "o":  "guarnecem",
+        "c":  "guarnécem",
+        "l":  "pt",
+        "cat":  "fonetica"
+    },
+    {
+        "o":  "esculpidor",
+        "c":  "esculpidôr",
+        "l":  "pt",
+        "cat":  "fonetica"
+    },
+    {
+        "o":  "esculpidores",
+        "c":  "esculpidôres",
+        "l":  "pt",
+        "cat":  "fonetica"
+    },
+    {
+        "o":  "enrouquecida",
+        "c":  "enrrouquecida",
+        "l":  "pt",
+        "cat":  "fonetica"
+    },
+    {
+        "o":  "enrouquecido",
+        "c":  "enrrouquecido",
+        "l":  "pt",
+        "cat":  "fonetica"
+    },
+    {
+        "o":  "enrouquecidas",
+        "c":  "enrrouquecidas",
+        "l":  "pt",
+        "cat":  "fonetica"
+    },
+    {
+        "o":  "enrouquecidos",
+        "c":  "enrrouquecidos",
+        "l":  "pt",
+        "cat":  "fonetica"
+    },
+    {
+        "o":  "enrouquecer",
+        "c":  "enrrouquecer",
+        "l":  "pt",
+        "cat":  "fonetica"
+    },
+    {
+        "o":  "enrouqueceu",
+        "c":  "enrrouqueceu",
+        "l":  "pt",
+        "cat":  "fonetica"
+    },
+    {
+        "o":  "Jon",
+        "c":  "Djón",
+        "l":  "en",
+        "cat":  "nome"
+    },
+    {
+        "o":  "Arryn",
+        "c":  "Érin",
+        "l":  "en",
+        "cat":  "nome"
     }
 ]
