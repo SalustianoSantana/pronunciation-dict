@@ -2419,13 +2419,13 @@
     },
     {
         "o":  "esculpidor",
-        "c":  "esculpidôr",
+        "c":  "esculpi dor",
         "l":  "pt",
         "cat":  "fonetica"
     },
     {
         "o":  "esculpidores",
-        "c":  "esculpidôres",
+        "c":  "esculpi dores",
         "l":  "pt",
         "cat":  "fonetica"
     },
@@ -2476,5 +2476,11 @@
         "c":  "Érin",
         "l":  "en",
         "cat":  "nome"
+    },
+    {
+        "o":  "sufocam",
+        "c":  "sufócão",
+        "l":  "pt",
+        "cat":  "fonetica"
     }
 ]
