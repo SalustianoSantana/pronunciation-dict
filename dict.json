@@ -5212,5 +5212,47 @@
         "c":  "grácias",
         "l":  "pt",
         "cat":  "estrangeirismo-espanhol"
+    },
+    {
+        "o":  "Carl",
+        "c":  "Karl",
+        "l":  "en",
+        "cat":  "nome"
+    },
+    {
+        "o":  "Ann",
+        "c":  "Ane",
+        "l":  "en",
+        "cat":  "nome"
+    },
+    {
+        "o":  "Danny",
+        "c":  "Dênni",
+        "l":  "en",
+        "cat":  "nome"
+    },
+    {
+        "o":  "Sam",
+        "c":  "Samm",
+        "l":  "en",
+        "cat":  "nome"
+    },
+    {
+        "o":  "Wayne",
+        "c":  "Uaine",
+        "l":  "en",
+        "cat":  "nome"
+    },
+    {
+        "o":  "Wyatt",
+        "c":  "Uaiate",
+        "l":  "en",
+        "cat":  "nome"
+    },
+    {
+        "o":  "Katie",
+        "c":  "Keiti",
+        "l":  "en",
+        "cat":  "nome"
     }
 ]
