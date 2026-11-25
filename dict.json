@@ -2485,7 +2485,7 @@
     },
     {
         "o":  "James",
-        "c":  "Djêims",
+        "c":  "Jeims",
         "l":  "en",
         "cat":  "nome"
     },
@@ -2497,7 +2497,7 @@
     },
     {
         "o":  "Johnny",
-        "c":  "Djóni",
+        "c":  "Joni",
         "l":  "en",
         "cat":  "nome"
     },
@@ -2509,7 +2509,7 @@
     },
     {
         "o":  "Bob",
-        "c":  "Bób",
+        "c":  "Bobe",
         "l":  "en",
         "cat":  "nome"
     },
@@ -2576,12 +2576,6 @@
     {
         "o":  "Thomas",
         "c":  "Tómas",
-        "l":  "en",
-        "cat":  "nome"
-    },
-    {
-        "o":  "Tom",
-        "c":  "Tóm",
         "l":  "en",
         "cat":  "nome"
     },
@@ -2701,7 +2695,7 @@
     },
     {
         "o":  "George",
-        "c":  "Djórdj",
+        "c":  "Djordj",
         "l":  "en",
         "cat":  "nome"
     },
@@ -2731,7 +2725,7 @@
     },
     {
         "o":  "Eddie",
-        "c":  "Édi",
+        "c":  "Edi",
         "l":  "en",
         "cat":  "nome"
     },
@@ -2749,25 +2743,25 @@
     },
     {
         "o":  "Jeff",
-        "c":  "Djéf",
+        "c":  "Jef",
         "l":  "en",
         "cat":  "nome"
     },
     {
         "o":  "Ryan",
-        "c":  "Ráian",
+        "c":  "Raian",
         "l":  "en",
         "cat":  "nome"
     },
     {
         "o":  "Jacob",
-        "c":  "Djêicob",
+        "c":  "Jeicob",
         "l":  "en",
         "cat":  "nome"
     },
     {
         "o":  "Jake",
-        "c":  "Djêique",
+        "c":  "Jeique",
         "l":  "en",
         "cat":  "nome"
     },
@@ -2803,7 +2797,7 @@
     },
     {
         "o":  "Larry",
-        "c":  "Léri",
+        "c":  "Leri",
         "l":  "en",
         "cat":  "nome"
     },
@@ -2875,7 +2869,7 @@
     },
     {
         "o":  "Jack",
-        "c":  "Djéque",
+        "c":  "Jeque",
         "l":  "en",
         "cat":  "nome"
     },
@@ -2988,12 +2982,6 @@
         "cat":  "nome"
     },
     {
-        "o":  "Carl",
-        "c":  "Cárl",
-        "l":  "en",
-        "cat":  "nome"
-    },
-    {
         "o":  "Terry",
         "c":  "Téri",
         "l":  "en",
@@ -3042,20 +3030,8 @@
         "cat":  "nome"
     },
     {
-        "o":  "Wayne",
-        "c":  "Uêin",
-        "l":  "en",
-        "cat":  "nome"
-    },
-    {
         "o":  "Roy",
         "c":  "Rói",
-        "l":  "en",
-        "cat":  "nome"
-    },
-    {
-        "o":  "Ralph",
-        "c":  "Rélf",
         "l":  "en",
         "cat":  "nome"
     },
@@ -3091,7 +3067,7 @@
     },
     {
         "o":  "Louis",
-        "c":  "Lúis",
+        "c":  "Luis",
         "l":  "en",
         "cat":  "nome"
     },
@@ -3121,31 +3097,19 @@
     },
     {
         "o":  "Dave",
-        "c":  "Dêiv",
-        "l":  "en",
-        "cat":  "nome"
-    },
-    {
-        "o":  "Danny",
-        "c":  "Dêni",
-        "l":  "en",
-        "cat":  "nome"
-    },
-    {
-        "o":  "Sam",
-        "c":  "Sém",
+        "c":  "Deiv",
         "l":  "en",
         "cat":  "nome"
     },
     {
         "o":  "Matt",
-        "c":  "Mét",
+        "c":  "Met",
         "l":  "en",
         "cat":  "nome"
     },
     {
         "o":  "Josh",
-        "c":  "Djóch",
+        "c":  "Djoche",
         "l":  "en",
         "cat":  "nome"
     },
@@ -3188,12 +3152,6 @@
     {
         "o":  "Isaac",
         "c":  "Áizac",
-        "l":  "en",
-        "cat":  "nome"
-    },
-    {
-        "o":  "Wyatt",
-        "c":  "Uáiat",
         "l":  "en",
         "cat":  "nome"
     },
@@ -3258,20 +3216,14 @@
         "cat":  "nome"
     },
     {
-        "o":  "Seth",
-        "c":  "Sét",
-        "l":  "en",
-        "cat":  "nome"
-    },
-    {
         "o":  "Grant",
-        "c":  "Grént",
+        "c":  "Grent",
         "l":  "en",
         "cat":  "nome"
     },
     {
         "o":  "Shane",
-        "c":  "Xêin",
+        "c":  "Xein",
         "l":  "en",
         "cat":  "nome"
     },
@@ -3307,13 +3259,13 @@
     },
     {
         "o":  "Todd",
-        "c":  "Tód",
+        "c":  "Tod",
         "l":  "en",
         "cat":  "nome"
     },
     {
         "o":  "Earl",
-        "c":  "Ârl",
+        "c":  "Arle",
         "l":  "en",
         "cat":  "nome"
     },
@@ -3331,7 +3283,7 @@
     },
     {
         "o":  "Lloyd",
-        "c":  "Lóid",
+        "c":  "Loide",
         "l":  "en",
         "cat":  "nome"
     },
@@ -3427,7 +3379,7 @@
     },
     {
         "o":  "Jenny",
-        "c":  "Djêni",
+        "c":  "Jeni",
         "l":  "en",
         "cat":  "nome"
     },
@@ -3457,7 +3409,7 @@
     },
     {
         "o":  "Karen",
-        "c":  "Quéren",
+        "c":  "Queren",
         "l":  "en",
         "cat":  "nome"
     },
@@ -3469,7 +3421,7 @@
     },
     {
         "o":  "Betty",
-        "c":  "Béti",
+        "c":  "Beti",
         "l":  "en",
         "cat":  "nome"
     },
@@ -3487,19 +3439,13 @@
     },
     {
         "o":  "Ashley",
-        "c":  "Échli",
+        "c":  "Echli",
         "l":  "en",
         "cat":  "nome"
     },
     {
         "o":  "Kimberly",
-        "c":  "Químberli",
-        "l":  "en",
-        "cat":  "nome"
-    },
-    {
-        "o":  "Kim",
-        "c":  "Quím",
+        "c":  "Quimberli",
         "l":  "en",
         "cat":  "nome"
     },
@@ -3548,18 +3494,6 @@
     {
         "o":  "Kathleen",
         "c":  "Quétlin",
-        "l":  "en",
-        "cat":  "nome"
-    },
-    {
-        "o":  "Kate",
-        "c":  "Quêit",
-        "l":  "en",
-        "cat":  "nome"
-    },
-    {
-        "o":  "Katie",
-        "c":  "Quêiti",
         "l":  "en",
         "cat":  "nome"
     },
@@ -3661,7 +3595,7 @@
     },
     {
         "o":  "Joan",
-        "c":  "Djôun",
+        "c":  "Jôun",
         "l":  "en",
         "cat":  "nome"
     },
@@ -3714,18 +3648,6 @@
         "cat":  "nome"
     },
     {
-        "o":  "Ann",
-        "c":  "Én",
-        "l":  "en",
-        "cat":  "nome"
-    },
-    {
-        "o":  "Annie",
-        "c":  "Éni",
-        "l":  "en",
-        "cat":  "nome"
-    },
-    {
         "o":  "Kathryn",
         "c":  "Quétrin",
         "l":  "en",
@@ -3751,7 +3673,7 @@
     },
     {
         "o":  "Abby",
-        "c":  "Ébi",
+        "c":  "Ebi",
         "l":  "en",
         "cat":  "nome"
     },
@@ -3805,7 +3727,7 @@
     },
     {
         "o":  "Jane",
-        "c":  "Djêin",
+        "c":  "Djêine",
         "l":  "en",
         "cat":  "nome"
     },
@@ -3871,7 +3793,7 @@
     },
     {
         "o":  "Claire",
-        "c":  "Clér",
+        "c":  "Cler",
         "l":  "en",
         "cat":  "nome"
     },
@@ -3943,7 +3865,7 @@
     },
     {
         "o":  "Sadie",
-        "c":  "Sêidi",
+        "c":  "Seidi",
         "l":  "en",
         "cat":  "nome"
     },
@@ -3991,25 +3913,25 @@
     },
     {
         "o":  "Marge",
-        "c":  "Márdj",
+        "c":  "Mardj",
         "l":  "en",
         "cat":  "nome"
     },
     {
         "o":  "Gwen",
-        "c":  "Guén",
+        "c":  "Guene",
         "l":  "en",
         "cat":  "nome"
     },
     {
         "o":  "Meg",
-        "c":  "Még",
+        "c":  "Megue",
         "l":  "en",
         "cat":  "nome"
     },
     {
         "o":  "Beth",
-        "c":  "Bét",
+        "c":  "Bete",
         "l":  "en",
         "cat":  "nome"
     },
@@ -4027,7 +3949,7 @@
     },
     {
         "o":  "Dawn",
-        "c":  "Dón",
+        "c":  "Don",
         "l":  "en",
         "cat":  "nome"
     },
@@ -4039,7 +3961,7 @@
     },
     {
         "o":  "Ivy",
-        "c":  "Áivi",
+        "c":  "Aivi",
         "l":  "en",
         "cat":  "nome"
     },
@@ -4086,12 +4008,6 @@
         "cat":  "nome"
     },
     {
-        "o":  "Tammy",
-        "c":  "Témi",
-        "l":  "en",
-        "cat":  "nome"
-    },
-    {
         "o":  "Sherry",
         "c":  "Xéri",
         "l":  "en",
@@ -4117,7 +4033,7 @@
     },
     {
         "o":  "Johnson",
-        "c":  "Djónson",
+        "c":  "Jonson",
         "l":  "en",
         "cat":  "nome"
     },
@@ -4129,7 +4045,7 @@
     },
     {
         "o":  "Brown",
-        "c":  "Bráun",
+        "c":  "Braun",
         "l":  "en",
         "cat":  "nome"
     },
@@ -4165,13 +4081,13 @@
     },
     {
         "o":  "Taylor",
-        "c":  "Têilor",
+        "c":  "Teilor",
         "l":  "en",
         "cat":  "nome"
     },
     {
         "o":  "Moore",
-        "c":  "Múr",
+        "c":  "Mur",
         "l":  "en",
         "cat":  "nome"
     },
@@ -4183,7 +4099,7 @@
     },
     {
         "o":  "Lee",
-        "c":  "Lí",
+        "c":  "Li",
         "l":  "en",
         "cat":  "nome"
     },
@@ -4195,7 +4111,7 @@
     },
     {
         "o":  "White",
-        "c":  "Uáit",
+        "c":  "Uaite",
         "l":  "en",
         "cat":  "nome"
     },
@@ -4249,7 +4165,7 @@
     },
     {
         "o":  "Wright",
-        "c":  "Ráit",
+        "c":  "Raite",
         "l":  "en",
         "cat":  "nome"
     },
@@ -5284,5 +5200,17 @@
         "c":  "Séntral Párque",
         "l":  "en",
         "cat":  "nome"
+    },
+    {
+        "o":  "EUA",
+        "c":  "Estados Unidos",
+        "l":  "pt",
+        "cat":  "sigla"
+    },
+    {
+        "o":  "gracias",
+        "c":  "grácias",
+        "l":  "pt",
+        "cat":  "estrangeirismo-espanhol"
     }
 ]
