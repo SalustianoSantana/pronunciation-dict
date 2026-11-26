@@ -5254,5 +5254,17 @@
         "c":  "Keiti",
         "l":  "en",
         "cat":  "nome"
+    },
+    {
+        "o":  "Hispaniola",
+        "c":  "Ispaniôla",
+        "l":  "en",
+        "cat":  "nome"
+    },
+    {
+        "o":  "Gunn",
+        "c":  "Gâne",
+        "l":  "en",
+        "cat":  "nome"
     }
 ]
